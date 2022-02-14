@@ -15,9 +15,9 @@ We encourage everybody to upload their setups and suggest changes to existing se
 
 Issues can be used to ask questions or suggest changes to how we organize this repo.
 
-Use merge requests to suggest changes to existing setups or to add your own setups. The naming convention for setups is a *PB* followed by the best time you drove with the setup in the dormat m_ss_SSS, *A* with the ambient temperature in celcius, *T* followed by the track temperature and *D* for a very short description. You are free to pick what every description you like. So say we had a ACC setup for the ferrari 488 on Monza and our best time was 1:50:45.
+Use merge requests to suggest changes to existing setups or to add your own setups. The naming convention for setups is a *PB* followed by the best time you drove with the setup in the dormat m_ss_SSS, *A* with the ambient temperature in celcius, *T* followed by the track temperature and *D* for a very short description all seperated by a hyphen. You are free to pick what every description you like. So say we had a ACC setup for the ferrari 488 on Monza.
 
-That'd mean the file should be named `PB1_50_45A24T28DLessWingAngle.json` and be in the folder `asseto_corsa_competizione->ferrari_488_gt3_evo->monza`.
+That'd mean the file should be named `PB1_50_45-A24-T28-DLessWingAngle.json` and be in the folder `asseto_corsa_competizione->ferrari_488_gt3_evo->monza`.
 
 ## What the f*ck is git
 
